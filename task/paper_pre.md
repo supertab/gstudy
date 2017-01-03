@@ -21,3 +21,4 @@
 
 压缩方法：
 hash法：构造hash函数，其特点是具有相似结构的信号hash的结果相近
+局部敏感hash：《Similarity estimation techniques from rounding algorithms》 
